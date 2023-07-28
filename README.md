@@ -1,6 +1,6 @@
 # Machine-Learning-projects
 
-Introduction In most cases machine learning gets limited to the same call, fit, predict loop. Whereas ML is actually much more than that. This repository will be a place containing multiple ML projects which involves all the steps starting from data collection to final model deployment. Each of the projects have a separate readme file attached to them which will be explaining the steps to follow for recreating the project on your own system.
+Introduction In most cases, machine learning is limited to the same call, fit, and predict loop. In contrast, ML is actually much more than that. This repository will contain multiple ML projects that involve all the steps from data collection to final model deployment. =
 
 ## Contents
 
